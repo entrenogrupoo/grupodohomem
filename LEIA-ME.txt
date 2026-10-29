@@ -1,0 +1,9 @@
+OLHAI – Grupo do Homem
+
+Publique todos os arquivos desta pasta na raiz do repositório GitHub Pages, substituindo os antigos.
+
+O link do grupo está em config.js e usa o endereço do grupo masculino informado anteriormente.
+
+Pixel Meta: 1455099743203745. Eventos: PageView ao abrir; ClicouGrupoHomem e Lead ao clicar no botão. O clique não confirma entrada no grupo.
+
+Carrossel com 16 prints originais. Nenhum card leva para loja.
